@@ -32,7 +32,7 @@ account.
 * Publish the `index.html` file to a web server (Github pages, S3 bucket,
 Netlify, ...), or simply open it as a local file in your browser.
 
-## Specifying API Keys in the URL
+## Specifying API Keys in the URLsssss
 
 As an alternative to editing `index.html`, the projects and their API keys can be
 specified in the URL. Put them in the fragment identifier (after the "#" character) as
