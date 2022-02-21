@@ -75,5 +75,5 @@ There is an official [Healthchecks.io Status Dashboard Docker image](https://hub
 The image starts a lightweight [Caddy Webserver](https://caddyserver.com/) with the dashboard at the webserver's root.
 The example below starts a one-off, intercative container serving on port 8080 (`CTRL+C` to stop it):
 ```
-$ docker run --rm -it -p 8080:2015 healthchecks/dashboard
+$ docker run --rm -it -p 8080:2015 healthchecks/dashboardsss
 ```
